@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello welcome modified
+=======
+hello welcome
+>>>>>>> 96e6f538dbb18acf8a5abeb1a7be4016c8fab2ec
